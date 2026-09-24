@@ -1,0 +1,7 @@
+name = "Amhal"
+uuid = "542dd8e8-9baa-4090-bd92-176f42f41d5d"
+authors = ["manal-amhal <manal.amhal@outlook.com>"]
+version = "0.0.1"
+
+[compat]
+julia = "1.10"
